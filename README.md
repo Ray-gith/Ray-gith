@@ -1,5 +1,5 @@
 - 👋 Hi, I’m GPLiu @Ray-gith;
-- 👀 I’m interested in Machine Learning, Stock Investment and so on; 
+- 👀 I’m interested in Machine Learning and Stock Investment; 
 - 🌱 I’m currently learning Finance at South China University of Technology; 
 - 📫 Email 546726232@qq.com.
 
